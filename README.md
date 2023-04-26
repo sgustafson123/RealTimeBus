@@ -6,7 +6,9 @@ This tracks the stops for a bus route from the MIT campus to Cambridge in Massac
 Copy index.html file into browser.
 
 ###Future Improvements:
+
 I hope to connect this to the API for Lokaltrafik, Sweden
+
 Jag kommer att koppla ihop den har karten till API Lokaltrafik, Sverige
 
 ####License:
